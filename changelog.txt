@@ -1,0 +1,18 @@
+Removed fence and fence gate recipes from Stonecutter
+Added mosaic bamboo variants recipe for Stonecutter
+Recipe for doors in the Stonecutter now gives 2 doors instead of 3
+Recipe for trapdoors in the Stonecutter now gives 5 trapdoors instead of 2
+Wooden Stairs crafted in the Crafting Table now gives 8 stairs instead of 4
+
+=* Future additions
+Follow same logic from stonecutter into the crafting table
+| Stonecutter
+2 slabs from 1 block
+2 doors from 1 block
+5 trapdoors from 1 block
+1 stairs from 1 block
+| Crafting Table
+6 slabs from 3 blocks
+12 doors from 6 blocks
+30 trapdoors from 6 blocks
+8 stairs from 6 blocks
