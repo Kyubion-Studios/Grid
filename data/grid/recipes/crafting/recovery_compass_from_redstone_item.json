@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "group": "recovery_compass",
+  "key": {
+    "#": {
+      "item": "minecraft:echo_shard"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "R": {
+      "item": "minecraft:redstone"
+    }
+  },
+  "pattern": [
+    "#I#",
+    "IRI",
+    "#I#"
+  ],
+  "result": {
+    "id": "minecraft:recovery_compass"
+  }
+}

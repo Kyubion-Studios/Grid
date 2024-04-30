@@ -1,0 +1,42 @@
+{
+  "criteria": {
+    "has_diamond": {
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:diamond"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_tool_handle_materials": {
+      "conditions": {
+        "items": [
+          {
+            "items": "#minecraft:tool_handle_materials"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "grid:crafting/diamond_shovel"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_diamond",
+      "has_tool_handle_materials"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "grid:crafting/diamond_shovel"
+    ]
+  }
+}

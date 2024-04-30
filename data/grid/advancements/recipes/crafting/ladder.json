@@ -1,0 +1,31 @@
+{
+  "criteria": {
+    "has_rigid_body_materials": {
+      "conditions": {
+        "items": [
+          {
+            "items": "#minecraft:rigid_body_materials"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "grid:crafting/ladder"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_rigid_body_materials"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "grid:crafting/ladder"
+    ]
+  }
+}

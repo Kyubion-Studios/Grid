@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "group": "hanging_sings",
+  "key": {
+    "#": {
+      "item": "minecraft:stripped_acacia_log"
+    },
+    "C": {
+      "item": "minecraft:chain"
+    }
+  },
+  "pattern": [
+    "C C",
+    "###",
+    "###"
+  ],
+  "result": {
+    "count": 12,
+    "id": "minecraft:acacia_hanging_sign"
+  }
+}

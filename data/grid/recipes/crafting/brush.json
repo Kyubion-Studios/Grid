@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "F": {
+      "item": "minecraft:feather"
+    },
+    "C": {
+      "item": "minecraft:copper_ingot"
+    },
+    "S": {
+      "tag": "minecraft:tool_handle_materials"
+    }
+  },
+  "pattern": [
+    "F",
+    "C",
+    "S"
+  ],
+  "result": {
+    "id": "minecraft:brush"
+  }
+}

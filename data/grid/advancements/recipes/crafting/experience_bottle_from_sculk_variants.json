@@ -1,0 +1,43 @@
+{
+  "criteria": {
+    "has_strong_sculk_variants": {
+      "conditions": {
+        "items": [
+          {
+            "items": "#minecraft:strong_sculk_variants"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_glass_bottle":{
+      "conditions":{
+        "items":[
+          {
+            "items":"minecraft:glass_bottle"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "grid:crafting/experience_bottle_from_sculk_variants"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_strong_sculk_variants",
+      "has_glass_bottle"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "grid:crafting/experience_bottle_from_sculk_variants"
+    ]
+  }
+}
+

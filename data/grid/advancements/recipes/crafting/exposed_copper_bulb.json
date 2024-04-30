@@ -1,0 +1,53 @@
+{
+  "criteria": {
+    "has_exposed_copper": {
+      "conditions": {
+        "items": [
+          {
+            "items": "exposed_copper"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_blaze_powder": {
+      "conditions": {
+        "items": [
+          {
+            "items": "blaze_powder"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_redstone": {
+      "conditions": {
+        "items": [
+          {
+            "items": "redstone"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "grid:crafting/exposed_copper_bulb"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_exposed_copper",
+      "has_blaze_powder",
+      "has_redstone"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "grid:crafting/exposed_copper_bulb"
+    ]
+  }
+}

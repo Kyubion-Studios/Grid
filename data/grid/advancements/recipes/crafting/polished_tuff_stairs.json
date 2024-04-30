@@ -1,0 +1,31 @@
+{
+  "criteria": {
+    "has_polished_tuff": {
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:polished_tuff"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "grid:crafting/polished_tuff_stairs"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_polished_tuff"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "grid:crafting/polished_tuff_stairs"
+    ]
+  }
+}

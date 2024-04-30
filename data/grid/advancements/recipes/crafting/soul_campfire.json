@@ -1,0 +1,53 @@
+{
+  "criteria": {
+    "has_flammable_ingredients": {
+      "conditions": {
+        "items": [
+          {
+            "items": "#minecraft:flammable_ingredients"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_soul_fire_base_blocks": {
+      "conditions": {
+        "items": [
+          {
+            "items": "#minecraft:soul_fire_base_blocks"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_logs": {
+      "conditions": {
+        "items": [
+          {
+            "items": "#minecraft:logs"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "grid:crafting/soul_campfire"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_flammable_ingredients",
+      "has_soul_fire_base_blocks",
+      "has_logs"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "grid:crafting/soul_campfire"
+    ]
+  }
+}

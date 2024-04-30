@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "#": {
+      "tag": "minecraft:stone_materials"
+    },
+    "/": {
+      "tag": "minecraft:tool_handle_materials"
+    }
+  },
+  "pattern": [
+    "## ",
+    "#/ ",
+    " / "
+  ],
+  "result": {
+    "id": "minecraft:stone_axe"
+  }
+}

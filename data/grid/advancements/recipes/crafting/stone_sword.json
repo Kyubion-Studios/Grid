@@ -1,0 +1,42 @@
+{
+  "criteria": {
+    "has_stone_materials": {
+      "conditions": {
+        "items": [
+          {
+            "items": "#stone_materials"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_tool_handle_materials": {
+      "conditions": {
+        "items": [
+          {
+            "items": "#tool_handle_materials"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "grid:crafting/stone_sword"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_stone_materials",
+      "has_tool_handle_materials"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "grid:crafting/stone_sword"
+    ]
+  }
+}

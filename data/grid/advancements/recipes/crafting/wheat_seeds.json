@@ -1,0 +1,31 @@
+{
+  "criteria": {
+    "has_results_in_seed": {
+      "conditions": {
+        "items": [
+          {
+            "items": "#minecraft:results_in_seed"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "grid:crafting/wheat_seeds"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_results_in_seed"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "grid:crafting/wheat_seeds"
+    ]
+  }
+}

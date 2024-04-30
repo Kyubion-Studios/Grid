@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "minecraft:iron_trapdoor"
+  },
+  "result": {
+    "count": 1,
+    "id": "minecraft:iron_trapdoor",
+    "components": {
+      "minecraft:lore": [
+        "{'color':'dark_gray', 'fallback':'Vertical', 'italic':false, 'translate':'block_state.minecraft.iron_trapdoor.open'}"
+      ],
+      "minecraft:block_state": {
+        "open": "true"
+      },
+      "minecraft:enchantment_glint_override": true
+    }
+  }
+}

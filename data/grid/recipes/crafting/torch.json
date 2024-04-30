@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "C": {
+      "tag": "minecraft:coals"
+    },
+    "S": {
+      "tag": "minecraft:torch_handle_materials"
+    }
+  },
+  "pattern": [
+    " C ",
+    " S "
+  ],
+  "result": {
+    "count": 4,
+    "id": "minecraft:torch"
+  }
+}

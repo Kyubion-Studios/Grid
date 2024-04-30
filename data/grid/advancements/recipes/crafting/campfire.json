@@ -1,0 +1,53 @@
+{
+  "criteria": {
+    "has_flammable_ingredients": {
+      "conditions": {
+        "items": [
+          {
+            "items": "#minecraft:flammable_ingredients"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_coals": {
+      "conditions": {
+        "items": [
+          {
+            "items": "#minecraft:coals"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_logs": {
+      "conditions": {
+        "items": [
+          {
+            "items": "#minecraft:logs"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "grid:crafting/campfire"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_flammable_ingredients",
+      "has_coals",
+      "has_logs"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "grid:crafting/campfire"
+    ]
+  }
+}

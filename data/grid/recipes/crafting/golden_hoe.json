@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "#": {
+      "item": "minecraft:gold_ingot"
+    },
+    "/": {
+      "tag": "minecraft:tool_handle_materials"
+    }
+  },
+  "pattern": [
+    "## ",
+    " / ",
+    " / "
+  ],
+  "result": {
+    "id": "minecraft:golden_hoe"
+  }
+}

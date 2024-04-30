@@ -1,0 +1,31 @@
+{
+  "criteria": {
+    "has_warped_stem": {
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:warped_stem"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "grid:stonecutting/warped_hyphae"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_warped_stem"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "grid:stonecutting/warped_hyphae"
+    ]
+  }
+}

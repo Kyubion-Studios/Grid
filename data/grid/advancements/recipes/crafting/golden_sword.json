@@ -1,0 +1,42 @@
+{
+  "criteria": {
+    "has_gold_ingot": {
+      "conditions": {
+        "items": [
+          {
+            "items": "gold_ingot"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_tool_handle_materials": {
+      "conditions": {
+        "items": [
+          {
+            "items": "#tool_handle_materials"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "grid:crafting/golden_sword"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_gold_ingot",
+      "has_tool_handle_materials"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "grid:crafting/golden_sword"
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "criteria": {
+    "has_brown_wool": {
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:brown_wool"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "grid:crafting/brown_carpet"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_brown_wool"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "grid:crafting/brown_carpet"
+    ]
+  }
+}

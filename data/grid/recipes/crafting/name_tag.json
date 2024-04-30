@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "#": {
+      "item": "minecraft:rabbit_hide"
+    },
+    "Q": {
+      "item": "minecraft:quartz"
+    }
+  },
+  "pattern": [
+    "Q",
+    "#",
+    "#"
+  ],
+  "result": {
+    "id": "minecraft:name_tag"
+  }
+}

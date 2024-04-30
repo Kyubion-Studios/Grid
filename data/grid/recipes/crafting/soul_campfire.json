@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "S": {
+      "tag": "minecraft:flammable_ingredients"
+    },
+    "F": {
+      "tag": "minecraft:soul_fire_base_blocks"
+    },
+    "W": {
+      "tag": "minecraft:logs"
+    }
+  },
+  "pattern": [
+    " S ",
+    "SFS",
+    "WWW"
+  ],
+  "result": {
+    "id": "minecraft:soul_campfire",
+    "components": {
+      "minecraft:block_state": {
+        "lit": "false"
+      }
+    }
+  }
+}
