@@ -1,8 +1,3 @@
-TODO: 	REMOVE ADDITIONAL SPACES IN PATTERNS
-	RE-DO ALL THE KEYS TO MATCH VANILLA
-       ~REMOVE ALL COUNT:1
-       ~SET INDENT TO 2 AGAIN
-====
 +torch handle materials
 	torch
 	soul torch
@@ -36,13 +31,13 @@ TODO: 	REMOVE ADDITIONAL SPACES IN PATTERNS
 / copper trapdoor
 / iron trapdoor
 / iron bars
-/ copper grate
++ copper grates from items
 / doors
 / trapdoors
 / all carpets (and moss)
 / snow
 + vertical iron trapdoor
-+ vertical iron trapdoor from iron block)
++ vertical iron trapdoor from iron block
 / enchanted golden apple
 -+ all tool smithing recipes
 -/ lanterns
