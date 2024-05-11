@@ -1,7 +1,7 @@
 {
-    "values":[
-        "minecraft:stick",
-        "minecraft:bamboo",
-        "minecraft:blaze_rod"
-    ]
+  "values": [
+    "minecraft:stick",
+    "minecraft:bamboo",
+    "minecraft:breeze_rod"
+  ]
 }

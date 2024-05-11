@@ -1,7 +1,7 @@
 {
-    "values": [
-        "minecraft:sculk_catalyst",
-        "minecraft:sculk_shrieker",
-        "minecraft:sculk_sensor"
-    ]
+  "values": [
+    "minecraft:sculk_catalyst",
+    "minecraft:sculk_shrieker",
+    "minecraft:sculk_sensor"
+  ]
 }

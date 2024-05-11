@@ -1,18 +1,18 @@
 {
-	"values": [
-        "cobblestone",
-        "stone",
-        "andesite",
-        "calcite",
-        "diorite",
-        "dripstone_block",
-		"granite",
-        "deepslate",
-        "cobbled_deepslate",
-		"tuff",
-        "blackstone",
-        "basalt",
-        "smooth_basalt",
-        "mossy_cobblestone"
-	]
+  "values": [
+    "cobblestone",
+    "stone",
+    "andesite",
+    "calcite",
+    "diorite",
+    "dripstone_block",
+    "granite",
+    "deepslate",
+    "cobbled_deepslate",
+    "tuff",
+    "blackstone",
+    "basalt",
+    "smooth_basalt",
+    "mossy_cobblestone"
+  ]
 }
