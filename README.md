@@ -1,78 +1,17 @@
-# v1.9.0.20.5
-## Additions
-- Added crafting recipe for **Bell** (2), crafted with;
-  - **Stone** (4)
-  - **Stick**
-  - **Gold Block**
-- Added crafting recipe for **Nether Wart** (9), crafted with **Nether Wart Block**
-- Added crafting recipe for *horse armor variants*, crafted with *ore variant* (6)
-- Added custom crafting recipe for *painting variants*, crafted with;
-  - **Painting**
-  - *Multiple dye variants*
-- Added crafting for **Copper Door** (2), crafted with **Copper Ingot** (6)
-- Added stonecutting recipe for *copper doors* (2), cutted with **Copper Block**
-- Added crafting for **Copper Trapdoor** (4), crafted with **Copper Ingot** (6)
-- Added stonecutting recipe for *copper trapdoors* (4), cutted with **Copper Block**
-- Added crafting for **Iron Door** (16), crafted with **Iron Block** (6)
-- Added stonecutting recipe for **Iron Door** (2), cutted with **Iron Block**
-- Added crafting for **Iron Bars** (24), crafted with **Iron Block** (4)
-- Added stonecutting recipe for **Iron Bars** (6), cutted with **Iron Block**
-- Added stonecutting recipe for **Iron Trapdoor** (5), cutted with **Iron Block**
-- Added crafting recipe for *copper grates*, crafted with **Copper Ingot** (8)
-- Added custom crafting recipe for ***unstable* TNT** (Ignites when broken!), crafted with;
-  - **Sand** (5)
-  - **Gunpowder** (4)
-  - **Redstone**
-- Added custom stonecutting recipe for ***vertical* Iron Trapdoor** (Will be placed vertically!), crafted with;
-  - **Iron Block** (Results in 5)
-  - or **Iron Trapdoor** (Results in 1)
-- Added stonecutting recipes for *all wood variants*, crafted with their respective *logs*
+# This is Grid!
+Aiming to improve the player's experience and giving uses for forgotten game items, Grid adds and modifies numerous recipes not only on the **Crafting Table** but also on the **Smithing Table**, **Stonecutter**, **Furnace**, **Blast Furnace** and **Smoker**!
 
-## Changes
-- **All torches** crafting recipes
-  - **Stick** ingredient can also be **Bamboo**
-- **Arrow** crafting recipe
-  - **Stick** ingredient can also be **Bamboo**
-- **Fishing Rod** crafting recipe
-  - **Stick** ingredient can also be **Bamboo**
-- **Bow** crafting recipe
-  - **Stick** ingredient can also be **Bamboo**
-- **Crossbow** crafting recipe
-  - **Stick** ingredient can also be **Bamboo**
-- **Campfire variants** crafting recipes
-  - **Stick** ingredient can also be **Bamboo**
-- **Brush** crafting recipe
-  - **Stick** ingredient can also be **Bone** or **Bamboo**
-- **Saddle** crafting recipe
-  - Removed **Copper Ingot** ingredient
-- **Jukebox** crafting recipe
-  - **Copper Ingot** ingredient changed to **Diamond**
-- **Name Tag** crafting recipe
-  - Removed **Gold Nugget** ingredient
-- **Iron Bars** crafting recipe
-  - Ingredient count of **Iron Ingot** changed from 6 to 8
-- *Door variants* crafting recipes
-  - Result count from 15 to 16
-- *Trapdoor variants* crafting recipes
-  - Result count from 30 to 32
-- *Carpet variants* (including moss) crafting recipes
-  - Result count from 2 to 32
-- **Snow** crafting recipe
-  - Changed **Snow Block** (3) ingredient to **Snowball** (2)
-  - Result count changed from 6 to 8
-- Modified ingredients for **Enchanted Golden Apple** crafting recipe
-  - **Turtle scute**
-  - **Magma Cream** (2)
-  - **Gold Block** (3)
-  - **Golden Apple**
-  - **Ghast Tear** (2)
+Rediscover forgotten items and streamline your gameplay with revamped recipes that make sense. From enhancing crafting efficiency to introducing new uses for old items, Grid brings balance and creativity to every corner of your world. Craft horse armor, saddles, and more without relying on rare chest finds. With Grid, every crafting decision counts—explore new possibilities today!
 
-## Removals
-- All *tool* recipes in Smithing Table recipes
-- *Lanterns* crafting recipes are now back to vanilla
-- **Hopper** crafting recipe is now back to vanilla
-- **Observer** crafting recipe is now back to vanilla
+![](https://raw.githubusercontent.com/Kyubion-Studios/Grid-Branding/main/media/crafting/cake.png) ![](https://raw.githubusercontent.com/Kyubion-Studios/Grid-Branding/main/media/crafting/chainmail_chestplate.png) ![](https://raw.githubusercontent.com/Kyubion-Studios/Grid-Branding/main/media/crafting/spawner.png) ![](https://raw.githubusercontent.com/Kyubion-Studios/Grid-Branding/main/media/crafting/copper_bulb.png)
 
-## Fixes
-- Fixed groups and categories for all recipes
-- Fixed **Cut Copper Stairs** crafting recipe
+Transform your Minecraft experience with Grid, the ultimate crafting and utility mod! Rediscover forgotten items and streamline your gameplay with revamped recipes __that make sense__!
+Craft **horse armor**, **saddles**, and even **name tags** using materials you gather, rather than relying on rare chest finds.
+
+![Diamond Horse Armor Recipe](https://raw.githubusercontent.com/Kyubion-Studios/Grid-Branding/main/media/crafting/diamond_horse_armor.png) ![Saddle recipe](https://raw.githubusercontent.com/Kyubion-Studios/Grid-Branding/main/media/crafting/saddle.png) ![Name Tag Recipe](https://raw.githubusercontent.com/Kyubion-Studios/Grid-Branding/main/media/crafting/name_tag.png) ![](https://raw.githubusercontent.com/Kyubion-Studios/Grid-Branding/main/media/crafting/experience_bottle_from_sculk.png)
+
+# All Recipes
+For a comprehensive look at all the crafting innovations Grid has to offer, visit our [Wiki](https://github.com/Kyubion-Studios/Grid/wiki/Recipes). There, you'll find detailed listings and visual guides for every new recipe introduced in the mod. Whether you're looking to craft unique decorations or optimize your resource management, our recipe page provides the tools and inspiration to elevate your Minecraft adventure with Grid!
+
+##### **License Information:**
+##### *This project is licensed under the Creative Commons Attribution-NonCommercial (CC BY-NC) license. You are free to download, share, and use the software for non-commercial purposes, provided proper attribution is given to the original author. However, modifications, adaptations, or derivative works are not allowed under this license. For details about the license terms, please refer to the [full license text](https://creativecommons.org/licenses/by-nc/4.0/).*

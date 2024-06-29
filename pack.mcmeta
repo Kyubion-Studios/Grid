@@ -3,7 +3,7 @@
 		"pack_format": 45,
 		"supported_formats":{
 			"min_inclusive": 45,
-			"max_incluve": 48
+			"max_inclusive": 48
 		},
 		"description": [
       {
@@ -365,10 +365,6 @@
       {
         "namespace": "minecraft",
         "path": "recipe/jungle_trapdoor"
-      },
-      {
-        "namespace": "minecraft",
-        "path": "recipe/ladder"
       },
       {
         "namespace": "minecraft",
