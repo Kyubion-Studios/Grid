@@ -2,24 +2,12 @@
   "type": "minecraft:crafting_shapeless",
   "category": "misc",
   "ingredients": [
-    {
-      "item": "minecraft:painting"
-    },
-    {
-      "item": "minecraft:red_dye"
-    },
-    {
-      "item": "minecraft:orange_dye"
-    },
-    {
-      "item": "minecraft:green_dye"
-    },
-    {
-      "item": "minecraft:yellow_dye"
-    },
-    {
-      "item": "minecraft:yellow_dye"
-    }
+    "minecraft:painting",
+    "minecraft:red_dye",
+    "minecraft:orange_dye,
+    "minecraft:green_dye",
+    "minecraft:yellow_dye",
+    "minecraft:yellow_dye"
   ],
   "result": {
     "id": "minecraft:painting",
