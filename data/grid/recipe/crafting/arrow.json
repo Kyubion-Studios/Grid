@@ -2,15 +2,9 @@
   "type": "minecraft:crafting_shaped",
   "category": "equipment",
   "key": {
-    "F": {
-      "item": "minecraft:flint"
-    },
-    "S": {
-      "tag": "minecraft:flexible_body_materials"
-    },
-    "E": {
-      "item": "minecraft:feather"
-    }
+    "F": "minecraft:flint",
+    "S": "#minecraft:flexible_body_materials",
+    "E": "minecraft:feather"
   },
   "pattern": [
     " F ",
