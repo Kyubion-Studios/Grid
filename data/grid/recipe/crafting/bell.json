@@ -2,15 +2,9 @@
   "type": "minecraft:crafting_shaped",
   "category": "building",
   "key": {
-    "#": {
-      "item": "minecraft:gold_block"
-    },
-    "S": {
-      "item": "minecraft:stone"
-    },
-    "T": {
-      "item": "minecraft:stick"
-    }
+    "#": "minecraft:gold_block",
+    "S": "minecraft:stone",
+    "T": "minecraft:stick"
   },
   "pattern": [
     "STS",
