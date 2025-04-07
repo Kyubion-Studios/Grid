@@ -2,15 +2,9 @@
   "type": "minecraft:crafting_shaped",
   "category": "redstone",
   "key": {
-    "#": {
-      "item": "minecraft:weathered_copper"
-    },
-    "B": {
-      "item": "minecraft:blaze_powder"
-    },
-    "R": {
-      "item": "minecraft:redstone"
-    }
+    "#": "minecraft:weathered_copper",
+    "B": "minecraft:blaze_powder",
+    "R": "minecraft:redstone"
   },
   "pattern": [
     "B#B",

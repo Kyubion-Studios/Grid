@@ -3,9 +3,7 @@
   "category": "redstone",
   "group": "iron_trapdoor",
   "key": {
-    "#": {
-      "item": "minecraft:iron_block"
-    }
+    "#": "minecraft:iron_block"
   },
   "pattern": [
     "###",

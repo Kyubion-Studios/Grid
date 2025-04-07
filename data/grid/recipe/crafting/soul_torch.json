@@ -2,15 +2,9 @@
   "type": "minecraft:crafting_shaped",
   "category": "misc",
   "key": {
-    "C": {
-      "tag": "minecraft:coals"
-    },
-    "S": {
-      "tag": "minecraft:torch_handle_materials"
-    },
-    "O": {
-      "tag": "minecraft:soul_fire_base_blocks"
-    }
+    "C": "#minecraft:coals",
+    "S": "#minecraft:torch_handle_materials",
+    "O": "#minecraft:soul_fire_base_blocks"
   },
   "pattern": [
     " C ",

@@ -2,12 +2,8 @@
   "type": "minecraft:crafting_shaped",
   "category": "equipment",
   "key": {
-    "#": {
-      "item": "minecraft:rabbit_hide"
-    },
-    "Q": {
-      "item": "minecraft:quartz"
-    }
+    "#": "minecraft:rabbit_hide",
+    "Q": "minecraft:quartz"
   },
   "pattern": [
     "Q",

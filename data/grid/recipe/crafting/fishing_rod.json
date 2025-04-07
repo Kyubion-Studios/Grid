@@ -2,12 +2,8 @@
   "type": "minecraft:crafting_shaped",
   "category": "equipment",
   "key": {
-    "S": {
-      "tag": "minecraft:flexible_body_materials"
-    },
-    "R": {
-      "item": "minecraft:string"
-    }
+    "S": "#minecraft:flexible_body_materials",
+    "R": "minecraft:string"
   },
   "pattern": [
     "  S",

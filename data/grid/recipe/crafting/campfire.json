@@ -2,15 +2,9 @@
   "type": "minecraft:crafting_shaped",
   "category": "misc",
   "key": {
-    "S": {
-      "tag": "minecraft:flammable_ingredients"
-    },
-    "F": {
-      "tag": "minecraft:coals"
-    },
-    "W": {
-      "tag": "minecraft:logs"
-    }
+    "S": "#minecraft:flammable_ingredients",
+    "F": "#minecraft:coals",
+    "W": "#minecraft:logs"
   },
   "pattern": [
     " S ",

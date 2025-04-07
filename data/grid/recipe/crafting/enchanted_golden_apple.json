@@ -2,21 +2,11 @@
   "type": "minecraft:crafting_shaped",
   "category": "misc",
   "key": {
-    "#": {
-      "item": "minecraft:gold_block"
-    },
-    "M": {
-      "item": "minecraft:magma_cream"
-    },
-    "T": {
-      "item": "minecraft:turtle_scute"
-    },
-    "A": {
-      "item": "minecraft:golden_apple"
-    },
-    "G": {
-      "item": "minecraft:ghast_tear"
-    }
+    "#": "minecraft:gold_block",
+    "M": "minecraft:magma_cream",
+    "T": "minecraft:turtle_scute",
+    "A": "minecraft:golden_apple",
+    "G": "minecraft:ghast_tear"
   },
   "pattern": [
     "MTM",

@@ -2,21 +2,11 @@
   "type": "minecraft:crafting_shapeless",
   "category": "misc",
   "ingredients": [
-    {
-      "item": "minecraft:painting"
-    },
-    {
-      "item": "minecraft:brown_dye"
-    },
-    {
-      "item": "minecraft:green_dye"
-    },
-    {
-      "item": "minecraft:green_dye"
-    },
-    {
-      "item": "minecraft:light_gray_dye"
-    }
+    "minecraft:painting",
+    "minecraft:brown_dye",
+    "minecraft:green_dye",
+    "minecraft:green_dye",
+    "minecraft:light_gray_dye"
   ],
   "result": {
     "id": "minecraft:painting",

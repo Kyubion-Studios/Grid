@@ -3,9 +3,7 @@
   "category": "redstone",
   "group": "iron_doors",
   "key": {
-    "#": {
-      "item": "minecraft:iron_ingot"
-    }
+    "#": "minecraft:iron_ingot"
   },
   "pattern": [
     "##",

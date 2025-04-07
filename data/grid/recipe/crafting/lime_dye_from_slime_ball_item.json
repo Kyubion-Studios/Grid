@@ -2,9 +2,7 @@
   "type": "minecraft:crafting_shapeless",
   "group": "lime_dye",
   "ingredients": [
-    {
-      "item": "minecraft:slime_ball"
-    }
+    "minecraft:slime_ball"
   ],
   "result": {
     "id": "minecraft:lime_dye"

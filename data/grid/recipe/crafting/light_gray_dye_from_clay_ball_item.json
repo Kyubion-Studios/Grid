@@ -2,9 +2,7 @@
   "type": "minecraft:crafting_shapeless",
   "group": "light_gray_dye",
   "ingredients": [
-    {
-      "item": "minecraft:clay_ball"
-    }
+    "minecraft:clay_ball"
   ],
   "result": {
     "id": "minecraft:light_gray_dye"

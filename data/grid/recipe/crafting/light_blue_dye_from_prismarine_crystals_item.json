@@ -2,9 +2,7 @@
   "type": "minecraft:crafting_shapeless",
   "group": "light_blue_dye",
   "ingredients": [
-    {
-      "item": "minecraft:prismarine_crystals"
-    }
+    "minecraft:prismarine_crystals"
   ],
   "result": {
     "id": "minecraft:light_blue_dye"

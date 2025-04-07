@@ -3,9 +3,7 @@
   "category": "misc",
   "group": "blue_dye",
   "ingredients": [
-    {
-      "item": "minecraft:echo_shard"
-    }
+    "minecraft:echo_shard"
   ],
   "result": {
     "id": "minecraft:blue_dye"

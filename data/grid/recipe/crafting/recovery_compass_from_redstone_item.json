@@ -3,15 +3,9 @@
   "category": "equipment",
   "group": "recovery_compass",
   "key": {
-    "#": {
-      "item": "minecraft:echo_shard"
-    },
-    "I": {
-      "item": "minecraft:iron_ingot"
-    },
-    "R": {
-      "item": "minecraft:redstone"
-    }
+    "#": "minecraft:echo_shard",
+    "I": "minecraft:iron_ingot",
+    "R": "minecraft:redstone"
   },
   "pattern": [
     "#I#",

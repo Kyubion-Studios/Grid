@@ -3,9 +3,7 @@
     "category": "redstone",
     "group": "wooden_trapdoors",
     "key": {
-      "#": {
-        "item": "minecraft:warped_planks"
-      }
+      "#": "minecraft:warped_planks"
     },
     "pattern": [
       "###",
@@ -14,5 +12,5 @@
     "result": {
       "count": 32,
       "id": "minecraft:warped_trapdoor"
-    }
   }
+}

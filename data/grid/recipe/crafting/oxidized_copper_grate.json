@@ -3,9 +3,7 @@
   "category": "building",
   "group": "oxidized_copper_grates",
   "key": {
-    "#": {
-      "item": "minecraft:oxidized_copper"
-    }
+    "#": "minecraft:oxidized_copper"
   },
   "pattern": [
     " # ",

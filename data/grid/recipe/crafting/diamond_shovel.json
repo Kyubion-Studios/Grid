@@ -2,12 +2,8 @@
   "type": "minecraft:crafting_shaped",
   "category": "equipment",
   "key": {
-    "#": {
-      "item": "minecraft:diamond"
-    },
-    "/": {
-      "tag": "minecraft:tool_handle_materials"
-    }
+    "#": "minecraft:diamond",
+    "/": "#minecraft:tool_handle_materials"
   },
   "pattern": [
     " # ",

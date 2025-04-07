@@ -2,21 +2,11 @@
   "type": "minecraft:crafting_shaped",
   "category": "misc",
   "key": {
-    "#": {
-      "item": "minecraft:wheat"
-    },
-    "E": {
-      "item": "minecraft:egg"
-    },
-    "S": {
-      "item": "minecraft:sugar"
-    },
-    "M": {
-      "item": "minecraft:milk_bucket"
-    },
-    "B": {
-      "item": "minecraft:sweet_berries"
-    }
+    "#": "minecraft:wheat",
+    "E": "#minecraft:eggs",
+    "S": "minecraft:sugar",
+    "M": "minecraft:milk_bucket",
+    "B": "minecraft:sweet_berries"
   },
   "pattern": [
     "BMB",

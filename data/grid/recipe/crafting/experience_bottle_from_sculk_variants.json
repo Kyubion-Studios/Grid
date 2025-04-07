@@ -2,12 +2,8 @@
   "type": "minecraft:crafting_shapeless",
   "group": "experience_bottle",
   "ingredients": [
-    {
-      "tag": "minecraft:strong_sculk_variants"
-    },
-    {
-      "item": "minecraft:glass_bottle"
-    }
+    "#minecraft:strong_sculk_variants",
+    "minecraft:glass_bottle"
   ],
   "result": {
     "id": "minecraft:experience_bottle"

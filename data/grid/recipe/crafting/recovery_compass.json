@@ -3,12 +3,8 @@
   "category": "equipment",
   "group": "recovery_compass",
   "key": {
-    "#": {
-      "item": "minecraft:echo_shard"
-    },
-    "C": {
-      "item": "minecraft:compass"
-    }
+    "#": "minecraft:echo_shard",
+    "C": "minecraft:compass"
   },
   "pattern": [
     " # ",

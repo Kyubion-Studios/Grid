@@ -2,15 +2,9 @@
   "type": "minecraft:crafting_shaped",
   "category": "misc",
   "key": {
-    "G": {
-      "item": "minecraft:gunpowder"
-    },
-    "S": {
-      "tag": "minecraft:sand"
-    },
-    "R": {
-      "item": "minecraft:redstone"
-    }
+    "G": "minecraft:gunpowder",
+    "S": "#minecraft:sand",
+    "R": "minecraft:redstone"
   },
   "pattern": [
     "GSG",

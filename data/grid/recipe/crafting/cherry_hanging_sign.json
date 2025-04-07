@@ -3,12 +3,8 @@
   "category": "building",
   "group": "hanging_sings",
   "key": {
-    "#": {
-      "item": "minecraft:stripped_cherry_log"
-    },
-    "C": {
-      "item": "minecraft:chain"
-    }
+    "#": "minecraft:stripped_cherry_log",
+    "C": "minecraft:chain"
   },
   "pattern": [
     "C C",

@@ -2,9 +2,7 @@
   "type": "minecraft:crafting_shapeless",
   "group": "red_dye",
   "ingredients": [
-    {
-      "item": "minecraft:nether_wart"
-    }
+    "minecraft:nether_wart"
   ],
   "result": {
     "id": "minecraft:red_dye"

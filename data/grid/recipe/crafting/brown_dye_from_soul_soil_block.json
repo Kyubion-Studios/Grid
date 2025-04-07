@@ -2,9 +2,7 @@
   "type": "minecraft:crafting_shapeless",
   "group": "brown_dye",
   "ingredients": [
-    {
-      "item": "minecraft:soul_soil"
-    }
+    "minecraft:soul_soil"
   ],
   "result": {
     "count": 4,

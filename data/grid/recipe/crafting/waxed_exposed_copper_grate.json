@@ -3,9 +3,7 @@
   "category": "building",
   "group": "waxed_exposed_copper_grates",
   "key": {
-    "#": {
-      "item": "minecraft:waxed_exposed_copper"
-    }
+    "#": "minecraft:waxed_exposed_copper"
   },
   "pattern": [
     " # ",

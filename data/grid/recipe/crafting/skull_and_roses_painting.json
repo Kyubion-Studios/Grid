@@ -2,33 +2,15 @@
   "type": "minecraft:crafting_shapeless",
   "category": "misc",
   "ingredients": [
-    {
-      "item": "minecraft:painting"
-    },
-    {
-      "item": "minecraft:light_blue_dye"
-    },
-    {
-      "item": "minecraft:cyan_dye"
-    },
-    {
-      "item": "minecraft:cyan_dye"
-    },
-    {
-      "item": "minecraft:cyan_dye"
-    },
-    {
-      "item": "minecraft:blue_dye"
-    },
-    {
-      "item": "minecraft:lime_dye"
-    },
-    {
-      "item": "minecraft:lime_dye"
-    },
-    {
-      "item": "minecraft:red_dye"
-    }
+    "minecraft:painting",
+    "minecraft:light_blue_dye",
+    "minecraft:cyan_dye",
+    "minecraft:cyan_dye",
+    "minecraft:cyan_dye",
+    "minecraft:blue_dye",
+    "minecraft:lime_dye",
+    "minecraft:lime_dye",
+    "minecraft:red_dye"
   ],
   "result": {
     "id": "minecraft:painting",
