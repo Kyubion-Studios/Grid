@@ -4,7 +4,7 @@
 		"supported_formats": {
 			"min_inclusive": 80,
 			"max_inclusive": 81
-		}
+		},
 		"description": [
       {
         "text":"Grid",
@@ -388,10 +388,6 @@
       },
       {
         "namespace": "minecraft",
-        "path": "recipe/lodestone.json"
-      },
-      {
-        "namespace": "minecraft",
         "path": "recipe/magenta_carpet.json"
       },
       {
@@ -549,10 +545,6 @@
       {
         "namespace": "minecraft",
         "path": "recipe/redstone_torch.json"
-      },
-      {
-        "namespace": "minecraft",
-        "path": "recipe/saddle.json"
       },
       {
         "namespace": "minecraft",
